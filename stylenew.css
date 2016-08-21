@@ -1,3 +1,6 @@
+body {
+font-family: 'Cantarell', sans-serif;
+}
 #biggi1 {
 	background: url(cover.jpg);
 	background-size:cover;	
